@@ -26,11 +26,11 @@
       <url>http://localhost:8082/nexus/content/repositories/snapshots/</url>
     </repository>
 
-    <repository>
+    <releasesRepository>
       <id>releases</id>
       
       <url>http://localhost:8082/nexus/content/repositories/releases/</url>
-    </repository>
+    </releasesRepository>
 
   </distributionManagement>
 </project>
