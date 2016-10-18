@@ -23,13 +23,13 @@
     <repository>
       <id>snapshots</id>
       
-      <url>http://localhost:8082/nexus/content/repositories/snapshots/</ur>
+      <url>http://localhost:8082/nexus/content/repositories/snapshots/</url>
     </repository>
 
     <repository>
       <id>releases</id>
       
-      <url>http://localhost:8082/nexus/content/repositories/releases/</ur>
+      <url>http://localhost:8082/nexus/content/repositories/releases/</url>
     </repository>
 
   </distributionManagement>
